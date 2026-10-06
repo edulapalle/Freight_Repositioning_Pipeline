@@ -37,7 +37,7 @@ measured tuning experiment showing real Spark performance decisions.
 
 ## Data
 
-Real company data stays where it belongs — off GitHub. The `generate/` script produces
+The `generate/` script produces
 **synthetic freight data** (~5–10M rows, 1–2 GB Parquet) that mirrors the real domain:
 
 | Table | Grain | Key fields |
